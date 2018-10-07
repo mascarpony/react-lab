@@ -1,3 +1,6 @@
 [submodule "Sergei"]
 	path = Sergei
 	url = https://mascarpony@gitlab.com/gogumaUno/pokegram.git
+[submodule "SergeiAlena/pokegram"]
+	path = SergeiAlena/pokegram
+	url = https://mascarpony@gitlab.com/gogumaUno/pokegram.git
